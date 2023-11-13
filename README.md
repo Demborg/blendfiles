@@ -10,3 +10,7 @@ A parametric shoe based on a 3d scan of a persons feet.
 
 ## Hexagonal game of life
 ![](life/life.png)
+
+## Agile manifesto
+Fanart about the agile manifesto for fucking neerds ^^
+![](agile/agile.png)
