@@ -1,5 +1,9 @@
 # An archive for blender projects
 
+## Kinetic scluplture
+Helping a colegue of mine figure out the intricasies of some fantastic Reuben Margolin [sculptures](https://www.reubenmargolin.com/waves/interlaced/) using geometry nodes.
+![](patrik/patrik.png)
+
 ## Hattifnatt
 Making a 3d printable price for a hatt competition.
 ![](hattifnatt/hattifnattihatt.png)
